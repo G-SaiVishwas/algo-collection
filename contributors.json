@@ -4,5 +4,11 @@
 		"algorithm": "Binary Search",
 		"language": "Python",
 		"file": "python/binary_search.py"
+	},
+	{
+		"name": "Aryan Bhendarkar",
+		"algorithm": "Merge Sort",
+		"language": "Python",
+		"file": "python/merge_sort.py"
 	}
 ]
