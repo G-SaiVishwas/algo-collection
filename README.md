@@ -103,6 +103,7 @@ If entries already exist, place your object just before the closing `]` and add 
 - [ ] I starred this repository before contributing.
 - [ ] My issue title follows `[Language] Algorithm Name`.
 - [ ] My PR references the issue number (for example, `Closes #12`).
+- [ ] I follow G-SaiVishwas, and I have starred the repository.
 - [ ] Only one algorithm implementation is included in this PR.
 - [ ] File naming follows the prescribed pattern and resides in the correct language folder.
 - [ ] I added my details to `contributors.json` in the required format.
