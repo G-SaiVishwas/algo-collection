@@ -7,8 +7,8 @@
 	},
 	{
 		"name": "Aryan Bhendarkar",
-		"algorithm": "Merge Sort",
-		"language": "Python",
-		"file": "python/merge_sort.py"
+		"algorithm": "Dijkstra's Algorithm",
+		"language": "Java",
+		"file": "java/Dijkstra.java"
 	}
 ]
