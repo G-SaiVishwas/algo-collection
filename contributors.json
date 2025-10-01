@@ -10,5 +10,11 @@
 		"algorithm": "Dijkstra's Algorithm",
 		"language": "Java",
 		"file": "java/Dijkstra.java"
+	},
+	{
+		"name": "Aditya Singh",
+		"algorithm": "Quick Sort",
+		"language": "Python",
+		"file": "python/quick_sort.py"
 	}
 ]
