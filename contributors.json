@@ -4,5 +4,11 @@
 		"algorithm": "Binary Search",
 		"language": "Python",
 		"file": "python/binary_search.py"
+	},
+	{
+		"name": "Aryan Bhendarkar",
+		"algorithm": "Dijkstra's Algorithm",
+		"language": "Java",
+		"file": "java/Dijkstra.java"
 	}
 ]
