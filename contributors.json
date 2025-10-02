@@ -10,5 +10,11 @@
 		"algorithm": "Dijkstra's Algorithm",
 		"language": "Java",
 		"file": "java/Dijkstra.java"
+	},
+	{
+		"name": "Avishkar Chavan",
+		"algorithm": "Merge Sort Algorithm",
+		"language": "Java",
+		"file": "java/sorting/merge_sort.java"
 	}
 ]
