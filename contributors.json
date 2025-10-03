@@ -16,5 +16,11 @@
 		"algorithm": "Merge Sort Algorithm",
 		"language": "Java",
 		"file": "java/sorting/merge_sort.java"
+	},
+	{
+		"name": "Soham Sarkar",
+		"algorithm": "Linked List",
+		"language": "C++",
+		"file": "cpp/linked_list.cpp"
 	}
 ]
