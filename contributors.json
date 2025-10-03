@@ -16,5 +16,11 @@
 		"algorithm": "Merge Sort Algorithm",
 		"language": "Java",
 		"file": "java/sorting/merge_sort.java"
+	},
+	{
+		"name": "Isha",
+		"algorithm": "Merge Sort",
+		"language": "C",
+		"file": "c/merge_sort.c"
 	}
 ]
