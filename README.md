@@ -3,7 +3,7 @@
 Welcome to Algo Collection, a Hacktoberfest 2025 friendly space for learning algorithms and the GitHub workflow. Every contribution covers exactly **one** algorithm in exactly **one** programming language, plus a quick note in our contributors log.
 
 ## Quick Start
-- ⭐ Star this repo first—it keeps you on the Hacktoberfest leaderboard and helps others discover us.
+- Follow me and ⭐ Star this repo first—it keeps you on the Hacktoberfest leaderboard and helps others discover us.
 - Read the flow below before coding anything.
 - Grab or open an issue for a single algorithm/language pair.
 - Follow the naming rules, add your code, and register yourself in `contributors.json`.
