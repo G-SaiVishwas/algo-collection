@@ -17,4 +17,10 @@
 		"language": "Java",
 		"file": "java/sorting/merge_sort.java"
 	}
+	{
+		"name": "Om Bhorkade",
+		"algorithm": "Bucket & Radix Sort Algorithm",
+		"language": "Cpp",
+		"file": "cpp/BucketSort.cpp/"
+	}
 ]
