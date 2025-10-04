@@ -18,6 +18,12 @@
 		"file": "java/sorting/merge_sort.java"
 	},
 	{
+		"name": "Sriparno Roy",
+		"algorithm": "Insertion Sort",
+		"language": "C++",
+		"file": "cpp/insertion-sort.cpp"
+	},
+	{
 		"name": "Soham Sarkar",
 		"algorithm": "Linked List",
 		"language": "C++",
