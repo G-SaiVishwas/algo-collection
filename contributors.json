@@ -28,11 +28,17 @@
 		"algorithm": "Linked List",
 		"language": "C++",
 		"file": "cpp/linked_list.cpp"
-	}
+	},
 	{
 		"name": "Om Bhorkade",
 		"algorithm": "Bucket & Radix Sort Algorithm",
 		"language": "Cpp",
 		"file": "cpp/BucketSort.cpp/"
+	},
+	{
+		"name": "Atharv Mudse",
+		"algorithm": "Binary Tree",
+		"language": "Java",
+		"file": "java/binary-tree"
 	}
 ]
