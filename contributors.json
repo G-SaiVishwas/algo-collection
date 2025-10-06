@@ -36,6 +36,10 @@
 		"file": "cpp/BucketSort.cpp/"
 	},
 	{
+		"name": "Atharv Mudse",
+		"algorithm": "Binary Tree",
+		"language": "Java",
+		"file": "java/binary-tree"
 		"name": "Pranav Verma",
 		"algorithm": "Binary Search",
 		"language": "Java",
