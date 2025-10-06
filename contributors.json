@@ -40,5 +40,9 @@
 		"algorithm": "Binary Tree",
 		"language": "Java",
 		"file": "java/binary-tree"
+		"name": "Pranav Verma",
+		"algorithm": "Binary Search",
+		"language": "Java",
+		"file": "java/searching/binary_search.java"
 	}
 ]
