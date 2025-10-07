@@ -44,5 +44,11 @@
 		"algorithm": "Binary Search",
 		"language": "Java",
 		"file": "java/searching/binary_search.java"
+	},
+	{
+		"name": "Dharshi Balasubramaniyam",
+		"algorithm": "Insertion Sort",
+		"language": "Java",
+		"file": "java/insertion_sort.java"
 	}
 ]
