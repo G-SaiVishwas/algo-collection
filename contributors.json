@@ -58,5 +58,11 @@
 		"algorithm": "Radix Sort",
 		"language": "Java",
 		"file": "java/sorting/radix_sort.java"
-	}
+	}, 
+	{
+        "name": "Sandeep",
+        "algorithm": "Kruskal's Algorithm (MST)",
+        "language": "C++",
+        "file": "cpp/kruskal-mst.cpp"
+    },
 ]
