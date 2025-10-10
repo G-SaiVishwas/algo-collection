@@ -58,5 +58,11 @@
 		"algorithm": "Radix Sort",
 		"language": "Java",
 		"file": "java/sorting/radix_sort.java"
+	},
+	{
+		"name" : "Subham Kumar",
+		"algorithm" : "Fibonacci Series",
+		"language" : "Java",
+		"file" : "java/Recursive_Fibonacci.java"
 	}
 ]
