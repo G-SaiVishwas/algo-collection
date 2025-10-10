@@ -40,6 +40,8 @@
 		"algorithm": "Binary Tree",
 		"language": "Java",
 		"file": "java/binary-tree"
+	},
+	{
 		"name": "Pranav Verma",
 		"algorithm": "Binary Search",
 		"language": "Java",
@@ -50,5 +52,11 @@
 		"algorithm": "Insertion Sort",
 		"language": "Java",
 		"file": "java/insertion_sort.java"
+	},
+	{
+		"name": "10vulture1005(Vaidik Saxena)",
+		"algorithm": "Radix Sort",
+		"language": "Java",
+		"file": "java/sorting/radix_sort.java"
 	}
 ]
