@@ -5,7 +5,10 @@
  */
 class FibonacciDp {
     static long[] fibonacci(int n) {
-        if (n < 2) {
+        if (n == 0) {
+            return new long[]{0};
+        }
+        if (n == 1) {
             return new long[]{0, 1};
         }
         long[] sequence = new long[n + 1];
