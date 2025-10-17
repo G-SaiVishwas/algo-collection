@@ -58,5 +58,11 @@
 		"algorithm": "Radix Sort",
 		"language": "Java",
 		"file": "java/sorting/radix_sort.java"
+	},
+	{
+		"name": "Jithu Morrison S",
+		"algorithm": "Kadane's Algorithm",
+		"language": "Rust",
+		"file": "rust/kadane_algo.rs"
 	}
 ]
