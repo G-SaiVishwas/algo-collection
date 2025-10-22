@@ -70,5 +70,11 @@
 		"algorithm": "Finding largest element in an array",
 		"language": "Java",
 		"file": "java/arrays/LargestElementInArray.java"
+	},
+	{
+		"name": "Kanan Preet Kaur",
+		"algorithm": "Printing a right-angled triangle pattern",
+		"language": "Java",
+		"file": "java/RightAngledTriangle.java"
 	}
 ]
