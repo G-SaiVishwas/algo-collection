@@ -1,4 +1,4 @@
-# Algo Collection (main reps)
+# Algo Collection (main)
 
 Welcome to Algo Collection, a Hacktoberfest 2025 friendly space for learning algorithms and the GitHub workflow. Every contribution covers exactly **one** algorithm in exactly **one** programming language, plus a quick note in our contributors log.
 
