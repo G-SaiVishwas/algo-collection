@@ -64,5 +64,11 @@
 		"algorithm": "Kadane's Algorithm",
 		"language": "Rust",
 		"file": "rust/kadane_algo.rs"
+	},
+	{
+		"name": "Kanan Preet Kaur",
+		"algorithm": "Finding largest element in an array",
+		"language": "Java",
+		"file": "java/arrays/LargestElementInArray.java"
 	}
 ]
