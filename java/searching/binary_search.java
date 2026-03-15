@@ -1,3 +1,5 @@
+package searching;
+
 /**
  * Binary Search Algorithm
  * 

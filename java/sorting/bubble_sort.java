@@ -1,3 +1,5 @@
+package sorting;
+
 /*
  * Algorithm: Bubble Sort
  * Description: Swaps adjacent elements to sort an array; simple O(n^2) example.

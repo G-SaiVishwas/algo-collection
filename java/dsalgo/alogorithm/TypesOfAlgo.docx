@@ -1,0 +1,126 @@
+﻿Types of Algorithms
+Algorithms can be different types, depending on what they do and how they’re made. Some common types are:
+
+1. Searching and Sorting Algorithms
+    • Introduction to Searching Algorithms
+    • Introduction to Sorting Algorithm
+    • Stable and Unstable Sorting Algorithms
+    • Lower bound for comparison based sorting algorithms
+    • Can Run Time Complexity of a comparison-based sorting algorithm be less than N logN?
+    • Which sorting algorithm makes minimum number of memory writes?
+      
+2. Greedy Algorithms
+Introduction to Greedy Algorithms
+Activity Selection Problem
+Huffman Coding
+Job Sequencing Problem
+Quiz on Greedy Algorithms
+Minimum Number of Platforms Required for a Railway/Bus Station
+
+3. Dynamic Programming Algorithms
+Introduction to Dynamic Programming
+Overlapping Subproblems Property
+Optimal Substructure Property
+Longest Increasing Subsequence
+Longest Common Subsequence
+Min Cost Path
+Coin Change
+Matrix Chain Multiplication
+0-1 Knapsack Problem
+Longest Palindromic Subsequence
+Palindrome Partitioning
+
+4. Pattern Searching Algorithms
+Introduction to Pattern Searching
+Naive Pattern Searching
+KMP Algorithm
+Rabin-Karp Algorithm
+Pattern Searching using a Trie of all Suffixes
+Aho-Corasick Algorithm for Pattern Searching
+Z algorithm (Linear time pattern searching Algorithm)
+
+5. Backtracking Algorithm
+Introduction to Backtracking
+Print all permutations of a given string
+The Knight’s tour problem
+Rat in a Maze
+N Queen Problem
+Subset Sum
+m Coloring Problem
+Hamiltonian Cycle
+Sudoku
+
+6. Divide and Conquer Algorithm
+Introduction to Divide and Conquer
+Merge Sort
+Write your own pow(x, n) to calculate x*n
+Count Inversions
+Closest Pair of Points
+Strassen’s Matrix Multiplication
+
+7. Geometric Algorithm
+Introduction to Geometric Algorithms
+Closest Pair of Points | O(nlogn) Implementation
+How to check if a given point lies inside or outside a polygon?
+How to check if two given line segments intersect?
+Given n line segments, find if any two segments intersect
+How to check if given four points form a square
+Convex Hull using Jarvis’ Algorithm or Wrapping
+
+8. Mathematical Algorithms
+    • Introduction to Mathematical Algorithms
+    • Write an Efficient Method to Check if a Number is Multiple of 3
+    • Write a program to add two numbers in base 14
+    • Program for Fibonacci numbers
+    • Average of a stream of numbers
+    • Multiply two integers without using multiplication, division and bitwise operators, and no loops
+    • Babylonian method for square root
+    • Sieve of Eratosthenes
+    • Pascal’s Triangle
+    • Given a number, find the next smallest palindrome
+    • Program to add two polynomials
+    • Multiply two polynomials
+    • Count trailing zeroes in factorial of a number
+
+9. Bitwise Algorithms
+    • Introduction to Bitwise Algorithms
+    • Little and Big Endian
+    • Detect opposite signs
+    • Swap bits
+    • Turn off the rightmost set bit
+    • Rotate bits
+    • Next higher number with same number of set bits
+    • Swap two nibbles in a byte
+
+10. Graph Algorithms
+    • Introduction to Graph Algorithms
+    • BFS, DFS
+    • Cycles in Graph
+    • Shortest paths
+    • MST
+    • Topological Sorting
+    • Connectivity
+    • Max Flow
+
+11. Randomized Algorithms
+    • Introduction to Randomized Algorithms
+    • Linearity of Expectation
+    • Expected Number of Trials until Success
+    • Randomized Algorithms | Set 0 (Mathematical Background)
+    • Randomized Algorithms | Set 1 (Introduction and Analysis)
+    • Randomized Algorithms | Set 2 (Classification and Applications)
+    • Randomized Algorithms | Set 3 (1/2 Approximate Median)
+    • Reservoir Sampling
+
+12. Branch and Bound Algorithms
+Branch and Bound | Set 1 (Introduction with 0/1 Knapsack)
+Branch and Bound | Set 2 (Implementation of 0/1 Knapsack)
+Branch and Bound | Set 3 (8 puzzle Problem)
+Branch And Bound | Set 4 (Job Assignment Problem)
+Branch and Bound | Set 5 (N Queen Problem)
+Branch And Bound | Set 6 (Traveling Salesman Problem)
+
+
+link https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+

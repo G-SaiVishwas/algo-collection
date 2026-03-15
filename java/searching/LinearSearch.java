@@ -1,3 +1,5 @@
+package searching;
+
 public class LinearSearch {
     public static boolean contains(int[] arr, int target) {
         for (int i = 0; i < n; i++) {

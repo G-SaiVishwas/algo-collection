@@ -1,3 +1,5 @@
+package arrays;
+
 import java.io.*;
 
 class SecondLargestElementInArray {
