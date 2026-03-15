@@ -1,3 +1,5 @@
+package searching;
+
 import java.util.HashSet;
 
 public class HashSetSearch {

@@ -1,3 +1,5 @@
+package sorting;
+
 /**
  * Implementation of Merge Sort Algorithm
  * Time Complexity: O(n log n) in all cases

@@ -1,0 +1,3 @@
+preOrder = root - leftSubtree - rightSubtree
+inOrder = leftSubtree - root - rightSubtree
+postOrder = leftSubtree - rightSubtree - root
